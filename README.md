@@ -1,6 +1,5 @@
 ## Automatic Desktop Cleaner
 
-*********
 #### Requirements:
 
 1. Track desktop, i.e if new file added then move to particular folder
